@@ -1,6 +1,8 @@
 # Aborea-Bot
 Documentation zum Aborea Discord Bot
 
+***Der Bot ist bisher noch nicht öffentlich online. Er kann zwar schon zu Servern hinzugefügt werden, wird jedoch erst in ein paar Tagen nutzbar sein***
+
 Solltet ihr Verbesserungsvorschläge haben erstellt bitte unter Issues einen einen entsprechenden Beitrag
 
 ## Was ist die Funktion des Bots
