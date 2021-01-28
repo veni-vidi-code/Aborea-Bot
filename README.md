@@ -27,7 +27,7 @@ Wenn du mich unterstützen möchtest gibt es unterschiedlich Möglichkeiten.
 Mich kostet das hosten des Bots einen kleinen Betrag. Wenn du mich finanziell unterstützen möchtest schreib mich doch einfach mal auf Discord (TM#5784) an oder schreib mich hier auf Discord an. Evtl. schalte ich dir auch ein Bild für dein Profil frei. 
 
 ### Künstleriche Unterstützung
-Da ich nicht besonders künstlerich bin bin ich hier besonders auf eure Hilfe angewiesen. Ich wähle regelmäßig unter allen Einsendungen ein Bild aus was dann das Profilbild des Bots wird. Aus Copyright Gründen müsstet ihr mir eine **CC0-LIZENZ** oder **CC BY LIZENZ** einräumen. Ihr solltet insbesondere nur Bilder von euch selber einsenden. Auch hier ist es möglich das ich euch ein Bild für euer Profil freischalte
+Da ich nicht besonders künstlerich bin bin ich hier besonders auf eure Hilfe angewiesen. Ich wähle regelmäßig unter allen Einsendungen ein Bild aus was dann das Profilbild des Bots wird. Aus Copyright Gründen müsstet ihr mir eine Lizenz die mir erlaubt das Bild auf Discord zu verbreiten, gerne auch mit Namensnennung einräumen. Ihr solltet insbesondere nur Bilder von euch selber einsenden. Auch hier ist es möglich das ich euch ein Bild für euer Profil freischalte
 
 ### Namenseinreichung
 Für die !randomname Funktion brauche ich viele Namen. Hier kannst du mir Namen einsenden. Wenn du hierführ Vorschläge hast, sende mir eine liste (.TXT ODER WORD) in der du die Namen jeweils in "" setzt und mit Kommata trennst ("NAME1","NAME2",...). Gerne kannst du mir einzelne Listen für männlich / weiblich senden oder Regionen Aboreas
