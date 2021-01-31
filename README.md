@@ -19,10 +19,10 @@ Ich bin Tom Mucke, Mathestudent der RWTH Aachen und habe diesen Bot geschrieben 
 Du findest mich auf Discord unter TM#5784
 
 ## Wie kann ich helfen?
-Wenn du mich unterstützen möchtest gibt es unterschiedlich Möglichkeiten. 
+Wenn du mich unterstützen möchtest gibt es unterschiedlich Möglichkeiten. Am wichtigsten ist mir eigentlich zu wissen das der Bot euch hilft. Nutze ihn also, dann weiß ich das der Bot ankommt. ***Gerne kannst du auch hier einen Stern dalassen, dann wissen auch andere das du den Bot magst***.
 
 ### Finanzielle Unterstützung
-Mich kostet das hosten des Bots einen kleinen Betrag. Wenn du mich finanziell unterstützen möchtest schreib mich doch einfach mal auf Discord (TM#5784) an oder schreib mich hier auf Discord an. Evtl. schalte ich dir auch ein Bild für dein Profil frei. Anmerkung: Das ist ausdrücklich keine Notwendigkeit! Mein Ziel ist es nicht mit dem Bot Geld zu verdienen sondern den Bot Menschen zu Verfügung zu stellen, und zwar allen ohne Kosten.
+Mich kostet das hosten des Bots einen kleinen Betrag. Wenn du mich finanziell unterstützen möchtest schreib mich doch einfach mal auf Discord (TM#5784) an oder schreib mich hier auf Discord an. Evtl. schalte ich dir auch ein Bild für dein Profil frei. Anmerkung: Das ist ausdrücklich keine Notwendigkeit! Mein Ziel ist es nicht mit dem Bot Geld zu verdienen sondern den Bot Menschen zu Verfügung zu stellen, und zwar allen ohne Kosten. Ich freue mich genauso darüber wenn du  einfach hier einen Stern hinterlässt!
 
 ### Künstleriche Unterstützung
 Da ich nicht besonders künstlerich bin bin ich hier besonders auf eure Hilfe angewiesen. Ich wähle regelmäßig unter allen Einsendungen ein Bild aus was dann das Profilbild des Bots wird. Aus Copyright Gründen müsstet ihr mir eine Lizenz die mir erlaubt das Bild auf Discord zu verbreiten, gerne auch mit Namensnennung einräumen. Ihr solltet insbesondere nur Bilder von euch selber einsenden. Auch hier ist es möglich das ich euch ein Bild für euer Profil freischalte
