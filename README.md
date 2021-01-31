@@ -31,5 +31,5 @@ Da ich nicht besonders künstlerich bin bin ich hier besonders auf eure Hilfe an
 Für die !randomname Funktion brauche ich viele Namen. Hier kannst du mir Namen einsenden. Wenn du hierführ Vorschläge hast, sende mir eine liste (.TXT ODER WORD) in der du die Namen jeweils in "" setzt und mit Kommata trennst ("NAME1","NAME2",...). Gerne kannst du mir einzelne Listen für männlich / weiblich senden oder Regionen Aboreas
 
 ### Programmierhilfe
-Wenn du Erfahrung mit Discord Bots (Ich nutze discord.py) hast (oder sehr gut in Python bist) schreib mich gerne auf Discord (TM#5784)
+Wenn du Erfahrung mit Discord Bots (Ich nutze discord.py) hast (oder etwas anderes gerne implementieren würdest wie einen Webserver etc.) schreib mir gerne auf Discord (TM#5784)
 
