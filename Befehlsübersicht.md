@@ -7,7 +7,7 @@ Eine Liste aller bisherigen Befehle
 - ```!help Player``` Befehle für Spieler
 - ```d Nummer``` Würfelt einen Nummer seitigen Würfel
 - ```online?``` Gibt an ob der Bot online ist
--```!randomname``` Schlägt dir einen Namen vor (experimentell, nutzt aktuell https://github.com/skeeto/fantasyname)
+- ```!randomname``` Schlägt dir einen Namen vor (experimentell, nutzt aktuell https://github.com/skeeto/fantasyname)
 
 
 ## Player
