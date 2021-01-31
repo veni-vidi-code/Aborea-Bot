@@ -9,6 +9,7 @@ Der Bot dient dazu das Rollenspiel Aborea (https://www.aborea.de/) in Discord be
 ## Wie bekomme ich den Bot auf meinen Server?
 1. Erstelle einen Discord Server und lade deine Spielgruppe dazu ein dir beizutreten
 2. Nutze diesen Link und wähle da deinen Server aus https://discord.com/api/oauth2/authorize?client_id=796646075321679912&permissions=8&scope=bot
+(Der Bot nutzt diese Rechte nicht vollständig aus. Es handelt sich hierbei um eine Lösung für ein Problem Discords bei dem nach Gerät bei zu vielen einzelberechtigungen die Seite nicht korrekt angezeigt wird und deshalb der Bot nicht nutzbar wird. Du kannst auch nachträglich dem Bot die notwendigen Rechte geben. Solltest du das wollen sprich mich gerne an für eine aktuelle Liste)
 3. Wechsle nun wieder zu Discord. Auf deinem Server sollte nun der Bot vorhanden sein. Gebe einmal $install$ ein. Dadurch erstellt der Bot dir alle Rollen die er braucht und die notwendigen Channel. Wenn er fertig ist zeigt er dir einmal seine Hilfsseite an. (Dauert evtl. ein paar Sekunden). Sollte nichts passieren prüfe einmal mit online? ob der Bot nicht evtl. gerade offline ist.
 4. Der Bot hat nun einge Rollen erstellt. Gib allen Spielern die Rolle Player und deinem Dungeonmaster (vermutlich dir) die Rolle Dungeonmaster
 
