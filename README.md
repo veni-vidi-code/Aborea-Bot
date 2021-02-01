@@ -1,6 +1,5 @@
 # Aborea-Bot
 Documentation zum Aborea Discord Bot
-***Aktuell noch offline***
 Solltet ihr Verbesserungsvorschläge haben erstellt bitte unter Issues einen einen entsprechenden Beitrag
 
 ## Was ist die Funktion des Bots
