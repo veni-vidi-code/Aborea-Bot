@@ -28,3 +28,7 @@ Die Reihenfolge hier ist zufällig gewählt und gibt keinen Aufschluss über Rei
 ## Regex für Spielernamen um Fehler zu verhindern
 - [ ] Working on it
 - [ ] Testing
+
+## Löschen eines Characters
+- [ ] Working on it
+- [ ] Testing
