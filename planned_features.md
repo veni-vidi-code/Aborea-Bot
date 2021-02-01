@@ -24,3 +24,7 @@ Die Reihenfolge hier ist zufällig gewählt und gibt keinen Aufschluss über Rei
 ## geheime Abfrage des Spielleiters zu Characteren anderer Spieler
 - [ ] Working on it
 - [ ] Testing
+
+## Regex für Spielernamen um Fehler zu verhindern
+- [ ] Working on it
+- [ ] Testing
