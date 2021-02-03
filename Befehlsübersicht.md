@@ -22,8 +22,7 @@ Eine Liste aller bisherigen Befehle
 
 
 ## Dungeonmaster
-- ```!creategame NAMEDESSPIELS``` Erstellt ein neues Spiel mit dem entsprechendem "
-                                      "Namen", inline=True)
+- ```!creategame NAMEDESSPIELS``` Erstellt ein neues Spiel mit dem entsprechendem Namen
 - ```!expadd ANZAHL ANWEN``` Hiermit können Dungeonmaster die entsprechenden exp verteilen. Nur im Channel des Spiels möglich. An wen erfolgt über Erwähnungen
 - ```!lookup @SPIELER``` Zeigt dir die Informationen über den getaggten Spieler an. Nur im Spielchannel
 - ```!Fertigkeiten @SPIELER```  Gibt dir eine Liste aller Fertigkeiten eines Spielers an
