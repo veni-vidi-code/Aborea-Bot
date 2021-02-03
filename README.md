@@ -14,6 +14,8 @@ Der Bot dient dazu das Rollenspiel Aborea (https://www.aborea.de/) in Discord be
 
 Nun kann das Spiel beginnen. Gib deinem Dungeonmaster die von Bot erstellte dungeonmaster Rolle und allen Mitspielern die Rolle Player. Der Dungeonmaster muss nun einmal !creategame namedesspiels eingeben (namedesspiels ist hier  nur ein Platzhalter) und alle Spieler einmal !joingame namedesspiels .  Der Bot schreibt dann private Nachrichten und führt die Spieler durch die Charactererstellung. Alle weiteren Informationen erhaltet ihr über !help
 
+Anmerkung: Der Bot braucht nicht zwangseise Administrator Rechte. Dies ermöglicht es nur einfacher Funktionen hinzuzufügen. Du kannst alternativ den Bot erstmal ohne Rechte hinzufügen und dann in den Servereinstellungen mindestens die Rechte Nachrichten zu schreiben/lesen, TTS Nachrichhten zu schreiben, Rollenerstellung und Zuweisung, Channelverwaltung, Change und Manage Nickname, Manage Messages, Embeds. Diese Lösung wird ausdrücklich nicht unterstützt und es ist möglich, das einige Feautures nicht funktionieren. https://discord.com/api/oauth2/authorize?client_id=796646075321679912&permissions=471137360&scope=bot)
+
 ## Von wem?
 Ich bin Tom Mucke, Mathestudent der RWTH Aachen und habe diesen Bot geschrieben und hoste ihn. 
 Du findest mich auf Discord unter TM#5784
